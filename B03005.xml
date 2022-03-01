@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders, set down by the Lord Provost, bailiffs, and Council of Edinburgh, to be observed by the constables thereof, in discharge of their offices within this burgh, and liberties of the same.</title>
+            <author>Edinburgh (Scotland). Town Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03005</idno>
+            <idno type="STC">Wing E164E</idno>
+            <idno type="STC">ESTC R174859</idno>
+            <idno type="EEBO-CITATION">52528801</idno>
+            <idno type="OCLC">ocm 52528801</idno>
+            <idno type="VID">178769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178769)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2770:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders, set down by the Lord Provost, bailiffs, and Council of Edinburgh, to be observed by the constables thereof, in discharge of their offices within this burgh, and liberties of the same.</title>
+                  <author>Edinburgh (Scotland). Town Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Swintoun, one of His Majestie's Printers,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms of the city of Edinburgh at head of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law enforcement --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term>Constables --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178769:1" rendition="simple:additions"/>
+            <head>
+               <figure/> ORDERS, Set down by the Lord Provoſt, Bailiffs, and Council of <hi>Edinburgh,</hi> to be obſerved by the Conſtables thereof, in diſcharge of their Offices within this Burgh, and Liberties of the ſam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </head>
+            <p>
+               <hi>IMprimis,</hi> the Conſtables being elected by the Provoſt, Bailiffs, and Council, ſhall be oblieged to accept the Charge and Office of Conſtabulary, under the pains of impriſonment of their perſons, and payment of an Un-law of ten pounds <hi>Scots,</hi> and to rem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Waird ay and while the ſame be payed: and under the pain of Horning. And for diſcharge of an honeſt duty in their Offices, being ſolemnly ſworn, in preſence of the Provoſt, Bailiffs, and Council of this Burgh, ſhall give the Oath following;</p>
+            <floatingText xml:lang="eng" type="oath">
+               <body>
+                  <head>OATH.</head>
+                  <p>THat they and ilk ane of them ſhall faithfully and truly diſcharge their Offices of Conſtabulary within the bounds committed to th<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> charge, for the ſpace of twelve Moneths next after their admiſsion: And ſhall not for favour, reſpect, or fear of any perſon, forbe<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to do that which becometh them in their Office; And above all things, they ſhall regard the keeping and preſerving of the peace: And ſhall at every neceſſar occaſion come to the Provoſt and Bailiffs of this Burgh, or any one of them, and give a due and true information of any break or other inſolency againſt the Peace within the bounds of their commandment: And ſhall no wayes hide, cover, nor conceal the ſame, nor any probation or light that they can give for clearing and proving thereof: So help me God: And by God himſelf.</p>
+               </body>
+            </floatingText>
+            <p n="1">
+               <seg rend="decorInit">I</seg>Tem, a Conſtable ſhall have liberty to take and apprehend any ſuſpected per<g ref="char:EOLhyphen"/>ſons, idle Vagabonds, or night Walk<g ref="char:EOLhyphen"/>ers, and impriſon them till they find ſurety for their behaviour, at the diſcretion of any of the Judges for Civils, or Criminals, or the Lord Pro<g ref="char:EOLhyphen"/>voſt and Bailiffs of this Burgh.</p>
+            <p n="2">II. Item, a Conſtable ſhall have power to challenge any perſon within this Burgh, or Liberty thereof, that ſhall be found wearing Piſto<g ref="char:EOLhyphen"/>lets, or Daggers, and ſhall preſent them before the Provoſt, Bai<g ref="char:EOLhyphen"/>liffs, or any one of them, to be puniſhed by them for their fault, conform to the Act of Parliament.</p>
+            <p n="3">III. Item, upon appearance of any fray, or ſtir within this Burgh, either by day or night, betwixt any parties, or any other ſudden accident that may fall forth, the Conſtable ſhall take unto him the aſſiſtance of his neighbors for ſeparating of the parties, and for order taking with any inconvenience that ſhall happen to enſue, and ſhall take the party or parties, and commit them in waird, or preſent them to the Provoſt or Bailiffs. Attour, if any harm ſhall happen to be done to the Conſtable, or any of his aſ<g ref="char:EOLhyphen"/>ſiſtants, The Conſtable ſhall take them and put them in waird, and preſent them to the Provoſt and Bailiffs, or any of them to be accordingly puniſhed for their fault.</p>
+            <p n="4">IV. Item, if any perſon or perſons make any plea or tumult within this Burgh, and flee to any houſe, the Conſtable ſhall have power to break up the doors thereof; and albeit the party or par<g ref="char:EOLhyphen"/>ties flee without the bounds of the Conſtables Charge, yet may the Conſtable follow and apprehend him or them in a freſh pur<g ref="char:EOLhyphen"/>ſuit, and commit them to waird to be puniſhed for their fault.</p>
+            <p n="5">V. Item, ilk Conſtable ſhall ſearch, and ſeek within the bounds committed to his charge, that no Jeſuits, Seminary Prieſts, nor traf<g ref="char:EOLhyphen"/>ficking Papiſts, haunt, uſe, or lodge, or be reſet therein, and if they can find or try any, to take and apprehend them and preſent them to the Provoſt and Bailiffs, to be tryed.</p>
+            <p n="6">VI. Item, the Conſtable ſhall take and apprehend all Vagabonds, and ſturdy Beggers or Egyptians, and put them in waird to be pu<g ref="char:EOLhyphen"/>niſhed for their fault, according to the Act of Parliament.</p>
+            <p n="7">VII. Item, the Conſtable ſhall take and apprehend all idle per<g ref="char:EOLhyphen"/>ſons, who have no calling to live by, and who will not take them<g ref="char:EOLhyphen"/>ſelves to ſome Labour, Trade, or Occupation, and ſhall preſent them before the Provoſt and Bailiffs, who after examination and tryal ſhall puniſh them according to their crime and demerit.</p>
+            <p n="8">VIII. Item, the Conſtables being informed of any perſon guilty or culpable of ſlaughter, murther, theft, or any other capital cri<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whatſomever, ſhall then require his neighbours to aſſiſt him, for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſafe apprehending and convoying of ſuch perſons before the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Provoſt and Bailiffs, to be puniſhed for their fault.</p>
+            <p n="9">IX. Item, the Conſtable ſhall ſearch and ſeek the bounds com<g ref="char:EOLhyphen"/>mitted to his charge, and ſuffer no Vagabonds, Beggers, nor infa<g ref="char:EOLhyphen"/>mous perſons, to remain, dwell, or be reſet in his bounds, and if any be within his ſaids bounds, to ſhew the ſame to the Magiſtrats, that they may be puniſhed and removed forth of this Burgh.</p>
+            <p n="10">X. Item, ilk Conſtable ſhall concur one with another, at all occaſions needful.</p>
+            <p n="11">XI. Item, the whole Conſtables ſhall, upon every laſt Saturday of every Moneth, compear and preſent themſelves before the Provoſt and Bailiffs in the Council-houſe, to give an accompt of their diligence in their Offices, as they will anſwer upon their obedience.</p>
+            <p n="12">XII. Item, ilk Conſtable ſhall cauſe the bounds committed to his charge, be keeped clean of all kind of Filth, Middings, and Swine, and to that effect for keeping of the Streets and Paſ<g ref="char:EOLhyphen"/>ſages clean, ilk Conſtable ſhall have power in his own bounds, after tryal of any perſon or perſons caſting out Filth at their Doors, Windows, or Shots, either in the fore-gate, or back-ſides, or laying any Filth or Middings on the High-ſtreets, Cloſſes, or Paſſages, within this Burgh, to cauſe the perſon guilty to pay an unlaw of five pounds <hi>toties quoties,</hi> and to commit them in waird there to remain until the ſame be payed.</p>
+            <p n="13">XIII. Item, ilk Conſtable within his bounds, ſhall take and ap<g ref="char:EOLhyphen"/>prehend all banners, ſwearers and blaſphemers of Gods Name, either in the Streets, Markets, or at the Wells, and to puniſh them either by warding, or putting of them in the Joggs or Stocks according to the quality of their fault.</p>
+            <p n="14">XIV. Item, if any perſon ſhall refuſe or delay to concu<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Conſtable in executing of his office, they ſhall be impri<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and ſeverely puniſhed by command of the Provoſt and Bailif<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> cording to the quality of their offence.</p>
+            <p n="15">XV. Item, the Conſtable ſhall be oblieged to receive at <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> junctions, or Statutes that the Provoſt, or Bailiffs and Counci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> injoyn to them at any time hereafter.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>George Swintoun,</hi> one of His <hi>Majeſtie</hi>'s Printers. 1676</p>
+            <pb facs="tcp:178769:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
